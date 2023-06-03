@@ -19,8 +19,8 @@
 # Default server configuration
 #
 server {
-	listen 9000 default_server;
-	listen [::]:9000 default_server;
+	listen 9999 default_server;
+	listen [::]:9999 default_server;
 
 	# SSL configuration
 	#
